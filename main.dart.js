@@ -37064,7 +37064,7 @@ k=m.b
 l=""+l+"x "+m.a.a+" ("+k.a+") - $"+B.j.a3(k.b*l,2)+" MXN\n"
 o.a+=l}h=$.ak6
 j=h==null?"Datos para entrega:\nNombre:\nDirecci\xf3n completa:\nReferencias:\nForma de pago (efectivo / transferencia):\n":"Datos para entrega:\nNombre: "+h.a+"\nDirecci\xf3n completa: "+h.b+"\nReferencias: "+h.c+"\nForma de pago: "+h.d+"\n"
-i=A.kb("https://wa.me/521234567890?text="+A.Ds(2,"Hola Cream Kiss \ud83e\ude77\n\nQuiero hacer un pedido para *ENTREGA A DOMICILIO*:\n\n"+o.k(0)+"\nTotal aproximado: $"+B.j.a3(p.gTj(),2)+" MXN\nTiempo estimado de entrega: 30\u201345 minutos.\n\n"+j+"\n(Enviado desde la app Cream Kiss)\n",B.ac,!1),0,null)
+i=A.kb("https://wa.me/527775017717?text="+A.Ds(2,"Hola Cream Kiss \ud83e\ude77\n\nQuiero hacer un pedido para *ENTREGA A DOMICILIO*:\n\n"+o.k(0)+"\nTotal aproximado: $"+B.j.a3(p.gTj(),2)+" MXN\nTiempo estimado de entrega: 30\u201345 minutos.\n\n"+j+"\n(Enviado desde la app Cream Kiss)\n",B.ac,!1),0,null)
 s=6
 return A.Z(A.an6(i),$async$q2)
 case 6:s=b?3:5
